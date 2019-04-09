@@ -1,0 +1,10 @@
+C:\Documents and Settings\fingenito\Meus documentos\ExemploLoja\SecureAppC\SecureAppC\bin\Release\SecureAppC.dll
+C:\Documents and Settings\fingenito\Meus documentos\ExemploLoja\SecureAppC\SecureAppC\bin\Release\SecureAppC.pdb
+C:\Documents and Settings\fingenito\Meus documentos\ExemploLoja\SecureAppC\SecureAppC\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\fingenito\Meus documentos\ExemploLoja\SecureAppC\SecureAppC\obj\Release\SecureAppC.dll
+C:\Documents and Settings\fingenito\Meus documentos\ExemploLoja\SecureAppC\SecureAppC\obj\Release\SecureAppC.pdb
+C:\Users\fabio.ingenito\Documents\C#.Net\ContatosEquipe\SecureAppC\SecureAppC\bin\Release\SecureAppC.dll
+C:\Users\fabio.ingenito\Documents\C#.Net\ContatosEquipe\SecureAppC\SecureAppC\bin\Release\SecureAppC.pdb
+C:\Users\fabio.ingenito\Documents\C#.Net\ContatosEquipe\SecureAppC\SecureAppC\obj\Release\ResolveAssemblyReference.cache
+C:\Users\fabio.ingenito\Documents\C#.Net\ContatosEquipe\SecureAppC\SecureAppC\obj\Release\SecureAppC.dll
+C:\Users\fabio.ingenito\Documents\C#.Net\ContatosEquipe\SecureAppC\SecureAppC\obj\Release\SecureAppC.pdb

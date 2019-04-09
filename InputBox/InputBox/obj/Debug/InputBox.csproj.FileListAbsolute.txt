@@ -1,0 +1,10 @@
+C:\Documents and Settings\fingenito\Meus documentos\ExemploLoja\InputBox\InputBox\bin\Debug\InputBox.dll
+C:\Documents and Settings\fingenito\Meus documentos\ExemploLoja\InputBox\InputBox\bin\Debug\InputBox.pdb
+C:\Documents and Settings\fingenito\Meus documentos\ExemploLoja\InputBox\InputBox\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\fingenito\Meus documentos\ExemploLoja\InputBox\InputBox\obj\Debug\InputBox.dll
+C:\Documents and Settings\fingenito\Meus documentos\ExemploLoja\InputBox\InputBox\obj\Debug\InputBox.pdb
+C:\Users\fabio.ingenito\Documents\C#.Net\ContatosEquipe\InputBox\InputBox\bin\Debug\InputBox.dll
+C:\Users\fabio.ingenito\Documents\C#.Net\ContatosEquipe\InputBox\InputBox\bin\Debug\InputBox.pdb
+C:\Users\fabio.ingenito\Documents\C#.Net\ContatosEquipe\InputBox\InputBox\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\fabio.ingenito\Documents\C#.Net\ContatosEquipe\InputBox\InputBox\obj\Debug\InputBox.dll
+C:\Users\fabio.ingenito\Documents\C#.Net\ContatosEquipe\InputBox\InputBox\obj\Debug\InputBox.pdb
