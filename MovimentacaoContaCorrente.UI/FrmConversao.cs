@@ -19,7 +19,8 @@ namespace MovimentacaoContaCorrente.UI
 
         private void FrmConversao_Load(object sender, EventArgs e)
         {
-            TxtValorDolar.Text = ClsConversaoBLL.RetornaDolarComercialTheMoneyConverter();
+            //TxtValorDolar.Text = ClsConversaoBLL.RetornaDolarComercialTheMoneyConverter();
+            TxtValorDolar.Text = ClsConversaoBLL.RetornaDolarComercialUOL();
         }
 
         private void BtnPesquisar_Click(object sender, EventArgs e)

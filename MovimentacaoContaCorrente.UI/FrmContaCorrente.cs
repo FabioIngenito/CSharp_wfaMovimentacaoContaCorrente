@@ -593,7 +593,14 @@ namespace MovimentacaoContaCorrente.UI
         /// <returns>Retorna valor do Dólar Comecial no site escolhido</returns>
         private string BuscaDolarComercial()
         {
-            return ClsConversaoBLL.RetornaDolarComercialTheMoneyConverter();
+            //return ClsConversaoBLL.RetornaDolarComercialBancoCentralDoBrasilWR(0);
+            //return ClsConversaoBLL.RetornaDolarComercialBancoCentralDoBrasilCS(0);
+            //return ClsConversaoBLL.RetornaDolarComercialCalculeNet();
+            //return ClsConversaoBLL.RetornaDolarComercialDolarHoje();
+            //return ClsConversaoBLL.RetornaDolarComercialInfoMoney();
+            //return ClsConversaoBLL.RetornaDolarComercialTheMoneyConverter();
+            //return ClsConversaoBLL.RetornaDolarComercialToroInvestimentos();
+            return ClsConversaoBLL.RetornaDolarComercialUOL();
         }
 
         /// <summary>
